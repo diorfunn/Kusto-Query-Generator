@@ -1,2 +1,2 @@
-# Kusto-Query-Generator
+# Kusto Query Generator
 KQG generates Kusto scripts using AI
