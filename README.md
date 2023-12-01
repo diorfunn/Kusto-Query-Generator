@@ -1,2 +1,2 @@
 # Kusto-Query-Generator
-Use KQG and generate Kusto scripts - useful with Defender ATP
+KQG generates Kusto scripts using AI
